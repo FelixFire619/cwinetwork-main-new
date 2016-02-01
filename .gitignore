@@ -13,6 +13,7 @@ $RECYCLE.BIN/
 *.msi
 *.msm
 *.msp
+*.komodoproject
 
 # Windows shortcuts
 *.lnk
@@ -27,6 +28,7 @@ $RECYCLE.BIN/
 .DS_Store
 .AppleDouble
 .LSOverride
+.komodotools
 
 # Thumbnails
 ._*
